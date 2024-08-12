@@ -18,10 +18,10 @@
 
 ### ⚙️ My Skill Set
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=python,c,java,mysql,nodejs,linux&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,gcp,opencv,tensorflow&theme=dark" />
+  <a href="https://skillicons.dev" style="display: inline-block;">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react&theme=dark" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
+    <img src="https://skillicons.dev/icons?i=python,c,java,mysql,nodejs,linux&theme=dark" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,gcp,opencv,tensorflow&theme=dark" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
   </a>
 </p>
 
@@ -38,12 +38,9 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/koushik sarkar" target="_blank">
+  <a href="https://linkedin.com/in/koushik-sarkar" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
-  </a>
-  <a href="https://fb.com/kkoushik sarkar" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook&theme=dark" alt="Facebook" />
-  </a>
+
   <a href="https://instagram.com/its_koushik777" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
   </a>
