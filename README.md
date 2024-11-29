@@ -38,7 +38,7 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/koushik-sarkar" target="_blank">
+  <a href="https://www.linkedin.com/in/koushik-sarkar-2849882b9/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
 
   <a href="https://instagram.com/its_koushik777" target="_blank">
